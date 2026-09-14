@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Trip.API.Properties.Controllers;
+namespace Trip.API.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-namespace Trip.API.Properties.Controllers;
+namespace Trip.API.Controllers;
 
 
 [Route("api/manualapi")]
